@@ -27,6 +27,6 @@ The publisher will also work with e-books. An EBook entity is similar to entity 
 * You can use any library you want to improve the quality of your project, just explain the reason for using them;
 * Don't forget to put comments in your code and use a well-defined directory structure;
 * Provide friendly error messages with the appropriate HTTP code;
-* Build only the application backend, no UI is required;
+* Create only the application backend, no UI is required;
 * You don't need to connect with a database, use a data structure to store the data in the memory;
 * Unit tests are welcome;
