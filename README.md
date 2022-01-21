@@ -28,5 +28,5 @@ The publisher will also work with e-books. An EBook entity is similar to entity 
 * Don't forget to put comments in your code and use a well-defined directory structure;
 * Provide friendly error messages with the appropriate HTTP code;
 * Create only the application backend, no UI is required;
-* You don't need to connect with a database, use a data structure to store the data in the memory;
+* You don't need to connect with a database, use a data structure to store the data in the memory, create your own  simple structure;
 * Unit tests are welcome;
