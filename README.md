@@ -1,4 +1,4 @@
-# Book Comet Coding Challenge
+# Book Comet: Coding Challenge
 
 You are hired as a software engineer to develop a new project: e-commerce called "bookcomet.com", for a book publisher.
 To integrate with other systems you decide to write an API for that.
