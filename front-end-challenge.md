@@ -14,3 +14,4 @@ https://publishing-house-service.herokuapp.com/docs
 * Don't forget to put comments in your code and use a well-defined directory structure;
 * Provide good error handling;
 * Unit tests are welcome;
+* Optional: implement a fake auth/login screen. You don't need to implement a real auth system, just set a flag or something saying that the user is logged and allows access to the content.
