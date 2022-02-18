@@ -31,3 +31,4 @@ The publisher will also work with e-books. An EBook entity is similar to entity 
 * Create only the application backend, no UI is required;
 * You don't need to connect with a database, use a data structure to store the data in the memory, create your own  simple structure;
 * Unit tests are welcome;
+* Optional: Implement a  fake auth/login screen. You don't need to implement a real auth system, just set a flag or something saying that the user is logged and allows access to the content.
